@@ -1,3 +1,4 @@
 # hello-world
 test
-dit is mijn code voor github
+Ik zal hier mijn code projecten maken. 
+Voor nu is er nog weinig code, alleen 1 klein programma voor het testen.
